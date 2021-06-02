@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/nnxy/testController/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g1-springmvc-servlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/index.jsp" charset="GBK" />
+  </component>
+</project>

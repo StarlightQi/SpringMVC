@@ -1,0 +1,43 @@
+.all {
+    width: 1500px;
+    height: 900px;
+    /*background-color: azure;*/
+    margin: 0 auto;
+}
+
+.top {
+    width: 1500px;
+    height: 70px;
+    /*background-color: bisque;*/
+    border-bottom-color: red;
+    border-bottom-style: solid;
+}
+
+.zhuce {
+    width: 1500px;
+    height: 40px;
+    background-color: darkgray;
+}
+
+.main {
+    width: 1500px;
+    height: 800px;
+    border-color: darkgray;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+.bottom {
+    width: 1500px;
+    height: 120px
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+
+}
+
+li {
+    margin-top: 10px;
+}
